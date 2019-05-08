@@ -1,0 +1,39 @@
+﻿生成启动时间为 2019/5/8 21:52:02。
+     1>项目“D:\AR\project01\opengl\test3\test3\test3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Maze.cpp "迷宫随机生成算法.cpp"
+         Maze.cpp
+     1>d:\ar\project01\opengl\test3\test3\camera.h(119): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(55): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(61): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(62): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(224): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(275): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(276): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(283): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(284): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(301): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(302): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(376): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(384): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(520): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(521): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(525): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(526): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(528): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(529): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+     1>d:\ar\project01\opengl\test3\test3\maze.cpp(536): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+         正在生成代码...
+     1>d:\ar\project01\opengl\test3\test3\camera.h(211): warning C4715: “Camera::collide”: 不是所有的控件路径都返回值
+         正在跳过...(未检测到相关更改)
+         迷宫随机生成算法.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\AR\project01\opengl\test3\Debug\test3.exe" /INCREMENTAL /NOLOGO "assimp-vc120-mt.lib" opencv_ts300d.lib opencv_world300d.lib "assimp-vc120-mt.lib" SOIL.lib glew32sd.lib opengl32.lib glfw3.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\AR\project01\opengl\test3\Debug\test3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\AR\project01\opengl\test3\Debug\test3.lib" /MACHINE:X86 Debug\Maze.obj
+         "Debug\迷宫随机生成算法.obj"
+         test3.vcxproj -> D:\AR\project01\opengl\test3\Debug\test3.exe
+     1>已完成生成项目“D:\AR\project01\opengl\test3\test3\test3.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.69
